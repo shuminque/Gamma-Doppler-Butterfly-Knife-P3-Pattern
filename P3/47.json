@@ -1,0 +1,31 @@
+{
+    "count": 4642,
+    "results": [
+        {
+            "updated": "2025-10-28T02:11:46.231433Z",
+            "def_index": 515,
+            "paint_index": 571,
+            "rarity": 6,
+            "paint_seed": 142,
+            "stattrak": false,
+            "souvenir": false,
+            "props": 393988,
+            "float_id": 47410153769,
+            "history_count": 0,
+            "s": "76561198261219090",
+            "a": "47410177513",
+            "d": "9421640475955701309",
+            "float_value": 0.0668758973479271,
+            "avatar": "https://avatars.akamai.steamstatic.com/3a52eb314e767e880765a3fc1a0cbaf09246c4eb_medium.jpg",
+            "is_online": false,
+            "has_vac_ban": false,
+            "has_community_ban": false,
+            "has_economy_ban": false,
+            "is_hidden": false,
+            "image": "https://community.akamai.steamstatic.com/economy/image/i0CoZ81Ui0m-9KwlBY1L_18myuGuq1wfhWSaZgMttyVfPaERSR0Wqmu7LAocGIGz3UqlXOLrxM-vMGmW8VNxu5Dx60noTyL6kJ_m-B1Z-ua6bbZrLOmsD2qvxu97veBWSyajhREioQKVko7qJHj4Ml93UtZuTbULtxfsxNDjZejqtFbajIMUyy36iytOvS1u5-ZXVPAt_PbejgiSZap9v8cjE0cexQ",
+            "serialized_inspect": "steam://rungame/730/76561202255233023/+csgo_econ_action_preview%200018830420BB042806300338BBECA3EC03408E01DFF81A00",
+            "gs_sig": "2f285a350d88c6c9dd60",
+            "screenshot_sig": "53d82abf5286c30cfbe5"
+        }
+    ]
+}
